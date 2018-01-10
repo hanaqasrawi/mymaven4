@@ -36,6 +36,7 @@ public class PersonRunner {
 		if (age > 150)
 			throw new IllegalArgumentException("invalid age");
 		if (age < 20)
+			gcvcx,vb
 			return 1;
 		else if (age < 60)
 			return 2;
